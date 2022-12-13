@@ -1,0 +1,31 @@
+.head {
+  text-align: center;
+  font-size: 25px;
+}
+.photo {
+  width: 150px;
+  border-radius: 50%;
+}
+.main-name {
+  margin-bottom: 0px;
+}
+.contact-info {
+  margin: 0px;
+  padding: 12px;
+  text-decoration: none;
+}
+.links {
+  text-decoration: none;
+  font-size: 70%;
+  color: gray;
+}
+.line {
+  padding: 0px 5px;
+}
+h2{
+  border-top: 4px solid grey ;
+  border-bottom: 2px solid gray;
+}
+.bold_text{
+  font-weight: bold;
+}
